@@ -9,7 +9,7 @@ Passion for coding, entrepreneurship, basketball and more
 * 🌍  I'm based in Italy
 * 🖥️  Meet me here [dennispierantozzi.com](http://dennispierantozzi.com)
 * ✉️  You can contact me at [dennis.pierantozzi@gmail.com](mailto:dennis.pierantozzi@gmail.com)
-* 🤝  I'm open to collaborating on Interesting projects in order to develop new coding skills
+* 🤝  I'm open to collaborating on crazy projects to develop new coding skills
 
 ### Skills
 
