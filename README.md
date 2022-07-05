@@ -7,7 +7,7 @@ Student of CS and automation engineering at UNIVPM
 Passion for coding, entrepreneurship, basketball and more
 
 * 🌍  I'm based in Italy
-* 🖥️  See my portfolio at [dennispierantozzi.com](http://dennispierantozzi.com)
+* 🖥️  Meet me here -> [dennispierantozzi.com](http://dennispierantozzi.com)
 * ✉️  You can contact me at [dennis.pierantozzi@gmail.com](mailto:dennis.pierantozzi@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects in order to develop new coding skills
 
