@@ -1,7 +1,7 @@
 Hi 👋 My name is Dennis Pierantozzi
 ===================================
 
-Student of CS and automation engineering at UNIVPM
+Student of Computer Science and engineering at Polimi
 --------------------------------------------------
 
 Passion for coding, entrepreneurship, basketball and more
