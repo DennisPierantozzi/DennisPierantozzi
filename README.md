@@ -3,10 +3,5 @@
 
 🔭 I’m currently working on [Teseo.app](https://www.teseo.app/)
 
-🌱 I’m currently learning
+🌱 I’m currently exploring
   - **Natural Language Processing (NLP)**: Understanding how to enable machines to understand and respond to human language.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dennispierantozzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennispierantozzi" height="30" width="40" /></a>
-</p>
