@@ -1,6 +1,6 @@
 ### Hello ✋🏻
 
-I'm Dennis, data scientist with MSc in Computer Science and Engineering (AI) from Politecnico di Milano; currently in the Data Graduate Program at Nexi, building data pipelines and LLM tools.
+I'm Dennis, Data Scientist with MSc in Computer Science and Engineering (AI) from Politecnico di Milano; currently in the Data Graduate Program at Nexi, building data pipelines and LLM tools.
 
 **Selected work**
 - [QA-SNNE](https://github.com/DennisPierantozzi/QASNNE): detecting unreliable answers from vision-language models. Shared first author, *IJCARS* 2026 ([paper](https://doi.org/10.1007/s11548-026-03750-9)).
